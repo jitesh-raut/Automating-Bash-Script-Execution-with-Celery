@@ -1,10 +1,11 @@
 # Automating-Bash-Script-Execution-with-Celery
 This repository demonstrates how to automate the execution of a Bash script using Celery and Redis on WSL Ubuntu. for demo, For example, It includes a simple "Hello, World!" Bash script, a Celery task to run the script, and configuration for scheduling the task with Celery Beat. Perfect for learning task automation and scheduling with Celery.
 
----
+Here's how you can add that line to your README file:
 
-## OS Used
-#### Ubuntu
+
+You can also use the complete automation script [here](https://github.com/jitesh-raut/Automating-Bash-Script-Execution-with-Celery/blob/main/automate_bash_with_celery.sh) for setting up the complete solution.
+
 ---
 
 To achieve this, follow these steps:
