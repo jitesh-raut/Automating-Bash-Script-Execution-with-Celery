@@ -4,8 +4,7 @@ This repository demonstrates how to automate the execution of a Bash script usin
 ---
 
 ## OS Used
-
-Ubuntu
+#### Ubuntu
 ---
 
 To achieve this, follow these steps:
